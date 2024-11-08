@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Smart CCTV using ML<br>👯 I’m looking to collaborate on GIT<br>🤝 I’m looking for help with<br>🌱 I’m currently learning different languages and frameworks<br>💬 Ask me about anything relted to coding<br>⚡ Fun fact you wont get the correct answer ;)
 
 
 ## 🌐 Socials:
